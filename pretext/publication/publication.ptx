@@ -155,7 +155,7 @@
     <css
         theme="greeley"
         primary-color="#C5050C"
-        primary-color-dark="#FA474D"
+        primary-color-dark="#FFFFFF"
      />
 
     <!-- Search can be default or none, or you can use a Google-cx number to use google's search

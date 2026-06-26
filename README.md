@@ -6,4 +6,4 @@ The current public textbook is available at:
 
 https://sebroc.github.io/MATH345-Textbook/
 
-This clean public repository contains the PreTeXt source and reviewed public downloads for version v0.1. Authoring scripts, reports, logs, Markdown migration sources, and other development materials are maintained separately in a private repository.
+This clean public repository contains the PreTeXt source and reviewed public downloads for version v0.2. Authoring scripts, reports, logs, Markdown migration sources, and other development materials are maintained separately in a private repository.

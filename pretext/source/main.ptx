@@ -10,17 +10,14 @@
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
-    <!-- Include chapters -->
-    <!-- <xi:include href="./ch-1-vector-geometry.ptx"/> -->
-    <xi:include href="./ch-2-systems-of-linear-equations.ptx" />
-    <xi:include href="./ch-3-matrix-algebra.ptx" />
-    <xi:include href="./ch-4-determinants.ptx" />
-    <xi:include href="./ch-5-vector-spaces.ptx" />
-    <xi:include href="./ch-6-orthogonality.ptx" />
-    <xi:include href="./ch-7-eigenvectors.ptx" />
-    <xi:include href="./ch-8-differentiation-in-several-variables.ptx" />
-    <xi:include href="./ch-9-more-differentiation-in-several-variables.ptx"/>
-    <xi:include href="./ch-10-optimization.ptx"/>
+    <!-- Include units -->
+    <xi:include href="./u1-vectors-matrices-linear-maps.ptx" />
+    <xi:include href="./u2-anatomy-linear-map.ptx" />
+    <xi:include href="./u3-beyond-linear-maps.ptx" />
+    <xi:include href="./u4-orthogonality-least-squares.ptx" />
+    <xi:include href="./u5-optimization-training.ptx" />
+    <xi:include href="./u6-constraints-svd.ptx" />
+    <xi:include href="./u7-abstract-vector-spaces-polynomial-approximation.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
